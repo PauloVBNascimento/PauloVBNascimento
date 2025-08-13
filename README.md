@@ -2,13 +2,13 @@
 
 ### Sobre mim 
 
-Meu nome é Paulo Nascimento, atualmente tenho 24 anos e sou de Paulista, em Pernambuco. Sou bacharel em Sistemas de Informação e atualmente estou buscando uma vaga como desenvolvedor back-end web e realizando cursos e treinamentos para melhorar minhas habilidades, buscando ficar atualizado sobre as novas tecnologias e práticas.
+Meu nome é Paulo Nascimento, atualmente tenho 24 anos e sou de Paulista, em Pernambuco. Sou bacharel em Sistemas de Informação e atualmente estou buscando uma vaga como desenvolvedor back-end web e realizando cursos e treinamentos para melhorar minhas habilidades, e também com o objetivo de ficar atualizado sobre as novas tecnologias e práticas.
 
 ### Vamos nos Conectar!
 
 | LinkedIn | GitHub | DIO |
 |----------|--------|-----|
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-batista-a076104/) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauloVBNascimento) | [![DIO](https://img.shields.io/badge/DIO-0078d7.svg?style=for-the-badge&logo=DIO&logoColor=white)](https://www.dio.me/users/victinhopaulo64)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulovbnascimento/) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauloVBNascimento) | [![DIO](https://img.shields.io/badge/DIO-0078d7.svg?style=for-the-badge&logo=DIO&logoColor=white)](https://www.dio.me/users/victinhopaulo64)
 
 ## 🛠️ Tecnologias e Ferramentas
 
